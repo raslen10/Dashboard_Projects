@@ -16,15 +16,15 @@ This project aims to provide a comprehensive overview and analysis of the HR dep
 
 ## Data Source
 
-The project utilizes an Excel file (`data.xls`) containing employee data. This data includes information on employee demographics, skills, performance ratings, leave records, and salaries.
+The project utilizes an Excel file (`data table.xlsx`) containing employee data. This data includes information on employee demographics, skills, performance ratings, leave records, and salaries.
 
 ## Data Processing
 
-The raw data in `data.xls` has been processed and transformed using pivot tables to summarize and aggregate relevant information. These pivot tables serve as the data source for the interactive dashboard.
+The raw data in `data table.xlsx` has been processed and transformed using pivot tables to summarize and aggregate relevant information. These pivot tables serve as the data source for the interactive dashboard.
 
 ## Dashboard
 
-The interactive dashboard (represented by `dash.png`) provides a user-friendly interface to explore the HR data. It includes various charts and graphs, such as:
+The interactive dashboard (represented by `dashboard.png`) provides a user-friendly interface to explore the HR data. It includes various charts and graphs, such as:
 
 - Bar charts for skills breakdown and leave tracking.
 - Pie charts for gender distribution and employment status.
@@ -35,12 +35,12 @@ The interactive dashboard (represented by `dash.png`) provides a user-friendly i
 ## Technologies Used
 
 - **Microsoft Excel**: For data processing and pivot tables.
-- **Data Visualization Tools**: Used to create the dashboard. (Note: Details of the specific tool used are not visible on the provided image, but it appears to be a Power BI dashboard.)
+- **Data Visualization Tools**:Excel Used to create the dashboard.
 
 ## How to Use
 
-1. Open the `data.xls` file to explore the raw data and pivot tables.
-2. Refer to the `dash.png` image to understand the layout and visualizations of the dashboard.
+1. Open the `data table.xlsx` file to explore the raw data and pivot tables.
+2. Refer to the `dashboard.png` image to understand the layout and visualizations of the dashboard.
 3. Use the dashboard to analyze and monitor the HR department's performance.
 
 ## Note
